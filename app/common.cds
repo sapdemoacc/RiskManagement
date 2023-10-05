@@ -23,7 +23,7 @@ descr @title : 'Description';
 
 annotate rm.Risks with {
    miti @(Common : {
-    //show text, not id for mitigation in the context of risks
+    //show text, not id for mitigation in the context of risks, test text "commit"
     Text            : miti.descr,
     TextArrangement : #TextOnly,
     ValueList       : {
